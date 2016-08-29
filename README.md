@@ -13,3 +13,7 @@ Analysis on Road Accidents Across States in India - Provides analysis on Road Ac
 Prevalence of Cancer worldwide across Gender - A quick statistics of different types of cancer affected across gender worldwide.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/141309887@N03/29142990246/in/dateposted-public/" title="CancerStatisticsWorldWide"><img src="https://c7.staticflickr.com/9/8116/29142990246_58c9f43a76_b.jpg" width="751" height="605" alt="CancerStatisticsWorldWide"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+U.S Corporate Tax Havens - Top N States - Tornado Chart - Overview on the giant pot of corporate gold sitting outside the United States, and the U.S. Treasury and the European Commission are squabbling over how to get their hands on it
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/141309887@N03/29314778565/in/dateposted-public/" title="USCorporateHavens"><img src="https://c6.staticflickr.com/9/8451/29314778565_824d15e3bb_b.jpg" width="902" height="623" alt="USCorporateHavens"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
