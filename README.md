@@ -17,3 +17,6 @@ Prevalence of Cancer worldwide across Gender - A quick statistics of different t
 U.S Corporate Tax Havens - Top N States - Tornado Chart - Overview on the giant pot of corporate gold sitting outside the United States
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/141309887@N03/29314778565/in/dateposted-public/" title="USCorporateHavens"><img src="https://c6.staticflickr.com/9/8451/29314778565_824d15e3bb_b.jpg" width="902" height="623" alt="USCorporateHavens"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+World's Biggest Data Breaches - A simple data analysis on World's Biggest Data Breaches Hacks - Donut Chart & Stacked Bar Chart
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/141309887@N03/29785069295/in/dateposted-public/" title="Data Breaches Hacks"><img src="https://c8.staticflickr.com/8/7761/29785069295_e729cd1a4b_b.jpg" width="1024" height="688" alt="Data Breaches Hacks"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
