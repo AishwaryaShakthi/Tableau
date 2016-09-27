@@ -20,3 +20,6 @@ U.S Corporate Tax Havens - Top N States - Tornado Chart - Overview on the giant 
 
 World's Biggest Data Breaches - A simple data analysis on World's Biggest Data Breaches Hacks - Donut Chart & Stacked Bar Chart
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/141309887@N03/29785069295/in/dateposted-public/" title="Data Breaches Hacks"><img src="https://c8.staticflickr.com/8/7761/29785069295_e729cd1a4b_b.jpg" width="1024" height="688" alt="Data Breaches Hacks"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Analysis on Global Peach Production - Find out which country is doing better on peach production over years. - Map/Pie Chart/CustomShapes
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/141309887@N03/29342219993/in/dateposted-public/" title="Analysis on Peach Production"><img src="https://c2.staticflickr.com/6/5280/29342219993_5ddab42b08_b.jpg" width="1024" height="709" alt="Analysis on Peach Production"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
