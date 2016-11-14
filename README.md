@@ -23,3 +23,7 @@ World's Biggest Data Breaches - A simple data analysis on World's Biggest Data B
 
 Analysis on Global Peach Production - Find out which country is doing better on peach production over years. - Map/Pie Chart/CustomShapes
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/141309887@N03/29342219993/in/dateposted-public/" title="Analysis on Peach Production"><img src="https://c2.staticflickr.com/6/5280/29342219993_5ddab42b08_b.jpg" width="1024" height="709" alt="Analysis on Peach Production"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Analysis on Top Most Words Used in Songs - So check out those magical words which gave rich taste to the songs from this visualization
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/141309887@N03/30976530195/in/dateposted-public/" title="TopWordsUsedInSongs"><img src="https://c4.staticflickr.com/6/5650/30976530195_a2f061a949_b.jpg" width="1024" height="576" alt="TopWordsUsedInSongs"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
