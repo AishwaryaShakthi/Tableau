@@ -27,3 +27,6 @@ Analysis on Global Peach Production - Find out which country is doing better on 
 Analysis on Top Most Words Used in Songs - So check out those magical words which gave rich taste to the songs from this visualization
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/141309887@N03/30976530195/in/dateposted-public/" title="TopWordsUsedInSongs"><img src="https://c4.staticflickr.com/6/5650/30976530195_177c64c231_b.jpg" width="1024" height="723" alt="TopWordsUsedInSongs"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Is Demonetisation a neccessary for corruption free India? - Check out to analyse on counterfeit notes 
+
