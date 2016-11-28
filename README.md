@@ -29,4 +29,7 @@ Analysis on Top Most Words Used in Songs - So check out those magical words whic
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/141309887@N03/30976530195/in/dateposted-public/" title="TopWordsUsedInSongs"><img src="https://c4.staticflickr.com/6/5650/30976530195_177c64c231_b.jpg" width="1024" height="723" alt="TopWordsUsedInSongs"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Is Demonetisation a neccessary for corruption free India? - Check out to analyse on counterfeit notes 
+<img src="https://s17.postimg.org/hoqq85i7j/Analysis_on_Demonetisation.png">
 
+Forecast on Wealth Inequality in US - As per the forecast, top 1% tends to hold 59% of Wealth till 2030, Check out the workbook for more analysis.
+<img src="https://s18.postimg.org/z7nh091hl/Forecast_on_Wealth_Inequality.png">
