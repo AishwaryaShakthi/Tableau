@@ -33,3 +33,7 @@ Is Demonetisation a neccessary for corruption free India? - Check out to analyse
 
 Forecast on Wealth Inequality in US - As per the forecast, top 1% tends to hold 59% of Wealth till 2030, Check out the workbook for more analysis.
 <img src="https://s18.postimg.org/z7nh091hl/Forecast_on_Wealth_Inequality.png">
+
+Worse Drivers Across States in US along with Tips for Safe Driving
+
+<img src="https://i.imgsafe.org/127b47bee7.png">
