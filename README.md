@@ -37,3 +37,6 @@ Forecast on Wealth Inequality in US - As per the forecast, top 1% tends to hold 
 Worse Drivers Across States in US along with Tips for Safe Driving
 
 <img src="https://i.imgsafe.org/127b47bee7.png">
+
+Food Price Changes for Christmas Dinner over years - Is it going to be expensive or cheap? Check out the workbook for column wise KPI as well !!
+<a href="http://imgh.us/Christmassy_Feast_2016.png" target="_blank"><img src="http://imgh.us/Christmassy_Feast_2016.png" /></a>
