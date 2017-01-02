@@ -40,3 +40,7 @@ Worse Drivers Across States in US along with Tips for Safe Driving
 
 Food Price Changes for Christmas Dinner over years - Is it going to be expensive or cheap? Check out the workbook for column wise KPI as well !!
 <a href="http://imgh.us/Christmassy_Feast_2016.png" target="_blank"><img src="http://imgh.us/Christmassy_Feast_2016.png" /></a>
+
+Gender Pay Gap Analysis of Australia - Are they biased? Check out the pay difference across different occupations.
+
+<a href="http://imgh.us/Gender_Pay_Gap_Analysis_of_Australia.png" target="_blank"><img src="http://imgh.us/Gender_Pay_Gap_Analysis_of_Australia.png" /></a>
