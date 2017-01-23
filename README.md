@@ -47,3 +47,5 @@ Gender Pay Gap Analysis of Australia - Are they biased? Check out the pay differ
 
 
 iPhone Sales Dip Analysis from 2007-2016 - <a href="http://imgh.us/IphoneSalesDip-2016.png" target="_blank"><img src="http://imgh.us/IphoneSalesDip-2016.png" /></a>
+
+Has Trump's Tweeting Habits made him to become the PRESIDENT ? - <a href="http://imgh.us/TrumpsTweetingHabits.png" target="_blank"><img src="http://imgh.us/TrumpsTweetingHabits.png" /></a>
