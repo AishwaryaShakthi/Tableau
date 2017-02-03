@@ -51,3 +51,5 @@ iPhone Sales Dip Analysis from 2007-2016 - <a href="http://imgh.us/IphoneSalesDi
 Has Trump's Tweeting Habits made him to become the PRESIDENT ? - <a href="http://imgh.us/TrumpsTweetingHabits.png" target="_blank"><img src="http://imgh.us/TrumpsTweetingHabits.png" /></a>
 
 New Zealand's Regional Tourism Expenditure Analysis and Forecast - <a href="http://imgh.us/NewZealand_Regional_Tourism_Expenditure_Analysis_and_Forecast.png" target="_blank"><img src="http://imgh.us/NewZealand_Regional_Tourism_Expenditure_Analysis_and_Forecast.png" /></a>
+
+Employment Growth in G-7 Countries - <a href="http://imgh.us/Employment_Growth_in_G-7_Countries.png" target="_blank"><img src="http://imgh.us/Employment_Growth_in_G-7_Countries.png" /></a>
