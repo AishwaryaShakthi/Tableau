@@ -53,3 +53,5 @@ Has Trump's Tweeting Habits made him to become the PRESIDENT ? - <a href="http:/
 New Zealand's Regional Tourism Expenditure Analysis and Forecast - <a href="http://imgh.us/NewZealand_Regional_Tourism_Expenditure_Analysis_and_Forecast.png" target="_blank"><img src="http://imgh.us/NewZealand_Regional_Tourism_Expenditure_Analysis_and_Forecast.png" /></a>
 
 Employment Growth in G-7 Countries - <a href="http://imgh.us/Employment_Growth_in_G-7_Countries.png" target="_blank"><img src="http://imgh.us/Employment_Growth_in_G-7_Countries.png" /></a>
+
+Analysis on How Americans Spend to Express Their Love on Valentines Day - <a data-flickr-embed="true"  href="https://www.flickr.com/photos/141309887@N03/32775986122/in/dateposted-public/" title="Analysis on How Americans Spend To Express Their Love"><img src="https://c1.staticflickr.com/3/2872/32775986122_e989999786_b.jpg" width="779" height="586" alt="Analysis on How Americans Spend To Express Their Love"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
