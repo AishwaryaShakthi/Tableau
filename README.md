@@ -58,3 +58,5 @@ Analysis on How Americans Spend to Express Their Love on Valentines Day - <a dat
 
 Exploring on EU Potato Sector - A quick analysis on the potato industry of European Union Countries.
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/141309887@N03/32183320934/in/dateposted-public/" title="Exploring on EU Potato Sector"><img src="https://c1.staticflickr.com/3/2422/32183320934_c1e2bc5be5_b.jpg" width="1024" height="703" alt="Exploring on EU Potato Sector"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+A broader analysis on Education System Across Globe - <a data-flickr-embed="true"  href="https://www.flickr.com/photos/141309887@N03/32257587973/in/dateposted-public/" title="A broader analysis on education system"><img src="https://c1.staticflickr.com/4/3952/32257587973_6f1b07c2da_b.jpg" width="1024" height="745" alt="A broader analysis on education system"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
