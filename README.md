@@ -66,3 +66,6 @@ Analysis on Top 500 Youtube Gaming Channels - <a data-flickr-embed="true"  href=
 Simple Analysis on NCAA Men's March Madness - <a data-flickr-embed="true"  href="https://www.flickr.com/photos/141309887@N03/32784148084/in/dateposted-public/" title="NCAA Men&#x27;s March Madness"><img src="https://c1.staticflickr.com/4/3715/32784148084_48910b05ff_b.jpg" width="1024" height="717" alt="NCAA Men&#x27;s March Madness"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Key To Success - Waffle Chart - <a data-flickr-embed="true"  href="https://www.flickr.com/photos/141309887@N03/33302284673/in/dateposted-public/" title="Key To Success"><img src="https://c1.staticflickr.com/3/2846/33302284673_226b68faaf_b.jpg" width="848" height="536" alt="Key To Success"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Have you upgraded your skills? - Analysis on LinkedIn's Top Skills Report
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/141309887@N03/33874148350/in/dateposted-public/" title="Have You Upgraded Yourself"><img src="https://c1.staticflickr.com/5/4183/33874148350_f4421ab6e4_b.jpg" width="793" height="590" alt="Have You Upgraded Yourself"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
